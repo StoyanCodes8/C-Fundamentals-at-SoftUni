@@ -1,0 +1,14 @@
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\07. ConcatNames\bin\Debug\net8.0\07. ConcatNames.exe
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\07. ConcatNames\bin\Debug\net8.0\07. ConcatNames.deps.json
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\07. ConcatNames\bin\Debug\net8.0\07. ConcatNames.runtimeconfig.json
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\07. ConcatNames\bin\Debug\net8.0\07. ConcatNames.dll
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\07. ConcatNames\bin\Debug\net8.0\07. ConcatNames.pdb
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\07. ConcatNames\obj\Debug\net8.0\07. ConcatNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\07. ConcatNames\obj\Debug\net8.0\07. ConcatNames.AssemblyInfoInputs.cache
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\07. ConcatNames\obj\Debug\net8.0\07. ConcatNames.AssemblyInfo.cs
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\07. ConcatNames\obj\Debug\net8.0\07. ConcatNames.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\07. ConcatNames\obj\Debug\net8.0\07. ConcatNames.dll
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\07. ConcatNames\obj\Debug\net8.0\refint\07. ConcatNames.dll
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\07. ConcatNames\obj\Debug\net8.0\07. ConcatNames.pdb
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\07. ConcatNames\obj\Debug\net8.0\07. ConcatNames.genruntimeconfig.cache
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\07. ConcatNames\obj\Debug\net8.0\ref\07. ConcatNames.dll

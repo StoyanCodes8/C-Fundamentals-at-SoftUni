@@ -1,0 +1,14 @@
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\02.PoundsToUsd\bin\Debug\net8.0\02.PoundsToUsd.exe
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\02.PoundsToUsd\bin\Debug\net8.0\02.PoundsToUsd.deps.json
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\02.PoundsToUsd\bin\Debug\net8.0\02.PoundsToUsd.runtimeconfig.json
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\02.PoundsToUsd\bin\Debug\net8.0\02.PoundsToUsd.dll
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\02.PoundsToUsd\bin\Debug\net8.0\02.PoundsToUsd.pdb
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\02.PoundsToUsd\obj\Debug\net8.0\02.PoundsToUsd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\02.PoundsToUsd\obj\Debug\net8.0\02.PoundsToUsd.AssemblyInfoInputs.cache
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\02.PoundsToUsd\obj\Debug\net8.0\02.PoundsToUsd.AssemblyInfo.cs
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\02.PoundsToUsd\obj\Debug\net8.0\02.PoundsToUsd.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\02.PoundsToUsd\obj\Debug\net8.0\02.PoundsToUsd.dll
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\02.PoundsToUsd\obj\Debug\net8.0\refint\02.PoundsToUsd.dll
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\02.PoundsToUsd\obj\Debug\net8.0\02.PoundsToUsd.pdb
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\02.PoundsToUsd\obj\Debug\net8.0\02.PoundsToUsd.genruntimeconfig.cache
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\02.PoundsToUsd\obj\Debug\net8.0\ref\02.PoundsToUsd.dll

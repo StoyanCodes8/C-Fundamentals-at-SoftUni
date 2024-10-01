@@ -1,0 +1,14 @@
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\05.SpecialNumber\bin\Debug\net8.0\05.SpecialNumber.exe
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\05.SpecialNumber\bin\Debug\net8.0\05.SpecialNumber.deps.json
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\05.SpecialNumber\bin\Debug\net8.0\05.SpecialNumber.runtimeconfig.json
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\05.SpecialNumber\bin\Debug\net8.0\05.SpecialNumber.dll
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\05.SpecialNumber\bin\Debug\net8.0\05.SpecialNumber.pdb
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\05.SpecialNumber\obj\Debug\net8.0\05.SpecialNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\05.SpecialNumber\obj\Debug\net8.0\05.SpecialNumber.AssemblyInfoInputs.cache
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\05.SpecialNumber\obj\Debug\net8.0\05.SpecialNumber.AssemblyInfo.cs
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\05.SpecialNumber\obj\Debug\net8.0\05.SpecialNumber.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\05.SpecialNumber\obj\Debug\net8.0\05.SpecialNumber.dll
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\05.SpecialNumber\obj\Debug\net8.0\refint\05.SpecialNumber.dll
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\05.SpecialNumber\obj\Debug\net8.0\05.SpecialNumber.pdb
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\05.SpecialNumber\obj\Debug\net8.0\05.SpecialNumber.genruntimeconfig.cache
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\05.SpecialNumber\obj\Debug\net8.0\ref\05.SpecialNumber.dll

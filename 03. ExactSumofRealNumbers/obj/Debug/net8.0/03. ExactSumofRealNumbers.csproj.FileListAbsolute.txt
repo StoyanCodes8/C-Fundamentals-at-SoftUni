@@ -1,0 +1,14 @@
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\03. ExactSumofRealNumbers\bin\Debug\net8.0\03. ExactSumofRealNumbers.exe
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\03. ExactSumofRealNumbers\bin\Debug\net8.0\03. ExactSumofRealNumbers.deps.json
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\03. ExactSumofRealNumbers\bin\Debug\net8.0\03. ExactSumofRealNumbers.runtimeconfig.json
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\03. ExactSumofRealNumbers\bin\Debug\net8.0\03. ExactSumofRealNumbers.dll
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\03. ExactSumofRealNumbers\bin\Debug\net8.0\03. ExactSumofRealNumbers.pdb
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\03. ExactSumofRealNumbers\obj\Debug\net8.0\03. ExactSumofRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\03. ExactSumofRealNumbers\obj\Debug\net8.0\03. ExactSumofRealNumbers.AssemblyInfoInputs.cache
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\03. ExactSumofRealNumbers\obj\Debug\net8.0\03. ExactSumofRealNumbers.AssemblyInfo.cs
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\03. ExactSumofRealNumbers\obj\Debug\net8.0\03. ExactSumofRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\03. ExactSumofRealNumbers\obj\Debug\net8.0\03. ExactSumofRealNumbers.dll
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\03. ExactSumofRealNumbers\obj\Debug\net8.0\refint\03. ExactSumofRealNumbers.dll
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\03. ExactSumofRealNumbers\obj\Debug\net8.0\03. ExactSumofRealNumbers.pdb
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\03. ExactSumofRealNumbers\obj\Debug\net8.0\03. ExactSumofRealNumbers.genruntimeconfig.cache
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\03. ExactSumofRealNumbers\obj\Debug\net8.0\ref\03. ExactSumofRealNumbers.dll

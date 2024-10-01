@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Stoyan Stefanov\\source\\repos\\08_Data Types and Variables\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F58CFB4-F583-4C81-B160-3539BD25E7CB}|E02.SumDigits\\E02.SumDigits.csproj|c:\\users\\stoyan stefanov\\source\\repos\\08_data types and variables\\e02.sumdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F58CFB4-F583-4C81-B160-3539BD25E7CB}|E02.SumDigits\\E02.SumDigits.csproj|solutionrelative:e02.sumdigits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{316BB254-1E2C-492F-8471-6A1E3B070051}|E01.IntegerOperations\\E01.IntegerOperations.csproj|c:\\users\\stoyan stefanov\\source\\repos\\08_data types and variables\\e01.integeroperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{316BB254-1E2C-492F-8471-6A1E3B070051}|E01.IntegerOperations\\E01.IntegerOperations.csproj|solutionrelative:e01.integeroperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC6B954-68A8-4CFD-BC32-F154500CD099}|12\\12..csproj|c:\\users\\stoyan stefanov\\source\\repos\\08_data types and variables\\12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC6B954-68A8-4CFD-BC32-F154500CD099}|12\\12..csproj|solutionrelative:12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7FC73C-797C-4DB8-8890-F983EBE27535}|11.RefactorVolumeofPyramid\\11.RefactorVolumeofPyramid.csproj|c:\\users\\stoyan stefanov\\source\\repos\\08_data types and variables\\11.refactorvolumeofpyramid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7FC73C-797C-4DB8-8890-F983EBE27535}|11.RefactorVolumeofPyramid\\11.RefactorVolumeofPyramid.csproj|solutionrelative:11.refactorvolumeofpyramid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stoyan Stefanov\\source\\repos\\08_Data Types and Variables\\E02.SumDigits\\Program.cs",
+              "RelativeDocumentMoniker": "E02.SumDigits\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoyan Stefanov\\source\\repos\\08_Data Types and Variables\\E02.SumDigits\\Program.cs",
+              "RelativeToolTip": "E02.SumDigits\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T05:53:31.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stoyan Stefanov\\source\\repos\\08_Data Types and Variables\\E01.IntegerOperations\\Program.cs",
+              "RelativeDocumentMoniker": "E01.IntegerOperations\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoyan Stefanov\\source\\repos\\08_Data Types and Variables\\E01.IntegerOperations\\Program.cs",
+              "RelativeToolTip": "E01.IntegerOperations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T05:46:18.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stoyan Stefanov\\source\\repos\\08_Data Types and Variables\\12\\Program.cs",
+              "RelativeDocumentMoniker": "12\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoyan Stefanov\\source\\repos\\08_Data Types and Variables\\12\\Program.cs",
+              "RelativeToolTip": "12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T05:30:50.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Stoyan Stefanov\\source\\repos\\08_Data Types and Variables\\11.RefactorVolumeofPyramid\\Program.cs",
+              "RelativeDocumentMoniker": "11.RefactorVolumeofPyramid\\Program.cs",
+              "ToolTip": "C:\\Users\\Stoyan Stefanov\\source\\repos\\08_Data Types and Variables\\11.RefactorVolumeofPyramid\\Program.cs",
+              "RelativeToolTip": "11.RefactorVolumeofPyramid\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T05:20:50.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

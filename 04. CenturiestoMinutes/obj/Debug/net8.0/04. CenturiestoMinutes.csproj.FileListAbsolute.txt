@@ -1,0 +1,14 @@
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\04. CenturiestoMinutes\bin\Debug\net8.0\04. CenturiestoMinutes.exe
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\04. CenturiestoMinutes\bin\Debug\net8.0\04. CenturiestoMinutes.deps.json
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\04. CenturiestoMinutes\bin\Debug\net8.0\04. CenturiestoMinutes.runtimeconfig.json
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\04. CenturiestoMinutes\bin\Debug\net8.0\04. CenturiestoMinutes.dll
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\04. CenturiestoMinutes\bin\Debug\net8.0\04. CenturiestoMinutes.pdb
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\04. CenturiestoMinutes\obj\Debug\net8.0\04. CenturiestoMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\04. CenturiestoMinutes\obj\Debug\net8.0\04. CenturiestoMinutes.AssemblyInfoInputs.cache
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\04. CenturiestoMinutes\obj\Debug\net8.0\04. CenturiestoMinutes.AssemblyInfo.cs
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\04. CenturiestoMinutes\obj\Debug\net8.0\04. CenturiestoMinutes.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\04. CenturiestoMinutes\obj\Debug\net8.0\04. CenturiestoMinutes.dll
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\04. CenturiestoMinutes\obj\Debug\net8.0\refint\04. CenturiestoMinutes.dll
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\04. CenturiestoMinutes\obj\Debug\net8.0\04. CenturiestoMinutes.pdb
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\04. CenturiestoMinutes\obj\Debug\net8.0\04. CenturiestoMinutes.genruntimeconfig.cache
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\04. CenturiestoMinutes\obj\Debug\net8.0\ref\04. CenturiestoMinutes.dll

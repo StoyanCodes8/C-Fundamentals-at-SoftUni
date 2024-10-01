@@ -1,0 +1,14 @@
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\08_Data Types and Variables\bin\Debug\net8.0\01. Meters - Kilometers.exe
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\08_Data Types and Variables\bin\Debug\net8.0\01. Meters - Kilometers.deps.json
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\08_Data Types and Variables\bin\Debug\net8.0\01. Meters - Kilometers.runtimeconfig.json
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\08_Data Types and Variables\bin\Debug\net8.0\01. Meters - Kilometers.dll
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\08_Data Types and Variables\bin\Debug\net8.0\01. Meters - Kilometers.pdb
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\08_Data Types and Variables\obj\Debug\net8.0\01. Meters - Kilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\08_Data Types and Variables\obj\Debug\net8.0\01. Meters - Kilometers.AssemblyInfoInputs.cache
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\08_Data Types and Variables\obj\Debug\net8.0\01. Meters - Kilometers.AssemblyInfo.cs
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\08_Data Types and Variables\obj\Debug\net8.0\01. Meters - Kilometers.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\08_Data Types and Variables\obj\Debug\net8.0\01. Meters - Kilometers.dll
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\08_Data Types and Variables\obj\Debug\net8.0\refint\01. Meters - Kilometers.dll
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\08_Data Types and Variables\obj\Debug\net8.0\01. Meters - Kilometers.pdb
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\08_Data Types and Variables\obj\Debug\net8.0\01. Meters - Kilometers.genruntimeconfig.cache
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\08_Data Types and Variables\obj\Debug\net8.0\ref\01. Meters - Kilometers.dll

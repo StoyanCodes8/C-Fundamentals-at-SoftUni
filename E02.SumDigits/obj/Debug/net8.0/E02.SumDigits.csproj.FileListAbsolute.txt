@@ -1,0 +1,14 @@
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\E02.SumDigits\bin\Debug\net8.0\E02.SumDigits.exe
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\E02.SumDigits\bin\Debug\net8.0\E02.SumDigits.deps.json
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\E02.SumDigits\bin\Debug\net8.0\E02.SumDigits.runtimeconfig.json
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\E02.SumDigits\bin\Debug\net8.0\E02.SumDigits.dll
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\E02.SumDigits\bin\Debug\net8.0\E02.SumDigits.pdb
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\E02.SumDigits\obj\Debug\net8.0\E02.SumDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\E02.SumDigits\obj\Debug\net8.0\E02.SumDigits.AssemblyInfoInputs.cache
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\E02.SumDigits\obj\Debug\net8.0\E02.SumDigits.AssemblyInfo.cs
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\E02.SumDigits\obj\Debug\net8.0\E02.SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\E02.SumDigits\obj\Debug\net8.0\E02.SumDigits.dll
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\E02.SumDigits\obj\Debug\net8.0\refint\E02.SumDigits.dll
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\E02.SumDigits\obj\Debug\net8.0\E02.SumDigits.pdb
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\E02.SumDigits\obj\Debug\net8.0\E02.SumDigits.genruntimeconfig.cache
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\E02.SumDigits\obj\Debug\net8.0\ref\E02.SumDigits.dll

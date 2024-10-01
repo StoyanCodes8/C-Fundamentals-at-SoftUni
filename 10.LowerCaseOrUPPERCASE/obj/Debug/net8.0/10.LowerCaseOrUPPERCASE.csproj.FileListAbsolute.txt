@@ -1,0 +1,14 @@
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\10.LowerCaseOrUPPERCASE\bin\Debug\net8.0\10.LowerCaseOrUPPERCASE.exe
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\10.LowerCaseOrUPPERCASE\bin\Debug\net8.0\10.LowerCaseOrUPPERCASE.deps.json
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\10.LowerCaseOrUPPERCASE\bin\Debug\net8.0\10.LowerCaseOrUPPERCASE.runtimeconfig.json
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\10.LowerCaseOrUPPERCASE\bin\Debug\net8.0\10.LowerCaseOrUPPERCASE.dll
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\10.LowerCaseOrUPPERCASE\bin\Debug\net8.0\10.LowerCaseOrUPPERCASE.pdb
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\10.LowerCaseOrUPPERCASE\obj\Debug\net8.0\10.LowerCaseOrUPPERCASE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\10.LowerCaseOrUPPERCASE\obj\Debug\net8.0\10.LowerCaseOrUPPERCASE.AssemblyInfoInputs.cache
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\10.LowerCaseOrUPPERCASE\obj\Debug\net8.0\10.LowerCaseOrUPPERCASE.AssemblyInfo.cs
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\10.LowerCaseOrUPPERCASE\obj\Debug\net8.0\10.LowerCaseOrUPPERCASE.csproj.CoreCompileInputs.cache
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\10.LowerCaseOrUPPERCASE\obj\Debug\net8.0\10.LowerCaseOrUPPERCASE.dll
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\10.LowerCaseOrUPPERCASE\obj\Debug\net8.0\refint\10.LowerCaseOrUPPERCASE.dll
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\10.LowerCaseOrUPPERCASE\obj\Debug\net8.0\10.LowerCaseOrUPPERCASE.pdb
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\10.LowerCaseOrUPPERCASE\obj\Debug\net8.0\10.LowerCaseOrUPPERCASE.genruntimeconfig.cache
+C:\Users\Stoyan Stefanov\source\repos\08_Data Types and Variables\10.LowerCaseOrUPPERCASE\obj\Debug\net8.0\ref\10.LowerCaseOrUPPERCASE.dll
